@@ -7,7 +7,7 @@ package com.lanqiao.git;
  */
 public class GitDemo {
     public static void main(String[] args) {
-        System.out.println("create a pro");
+        System.out.println("create a pro4");
     }
 
 
